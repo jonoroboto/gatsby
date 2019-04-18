@@ -18,7 +18,7 @@ _Note: This guide uses the Gatsby Hello World starter to provide a very basic un
 
 Before initializing your Gatsby project you should sign up for an account on [Prismic.io](https://prismic.io/). The free plan is a perfect fit for personal or smaller projects. Create a new blank repository to get to the content overview of your repository.
 
-Create your first custom type (Repeatable Type) with the name `Post` and add some fields to it. Choose rational names for the `API ID` input while configuring a field because these names will appear in your queries. You should always add the `uid` field in order to have a unique identifier (e.g. for filtering). Then switch to the content overview and create a new document with your `Post` type. Fill out the fields and publish the item.
+Create your first custom type (Repeatable Type) with the name `Post` and add some fields to it, in this demo we use: `UID`,  `Title`, `Content` and `Date`. Choose rational names for the `API ID` input while configuring a field because these names will appear in your queries. You should always add the `uid` field in order to have a unique identifier (e.g. for filtering). Then switch to the content overview and create a new document with your `Post` type. Fill out the fields and publish the item.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yrOYLNiYtBQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
